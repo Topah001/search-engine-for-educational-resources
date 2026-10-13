@@ -1,0 +1,2 @@
+Computer science explores algorithms, data structures, and the design of reliable software.
+Practice problem solving with a gentle introduction to Python programming and computational thinking.
